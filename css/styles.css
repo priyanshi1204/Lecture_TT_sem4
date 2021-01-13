@@ -1,0 +1,17 @@
+hr {
+  border-style: dotted none none;
+  border-color: white;
+  border-width: 5px;
+  width: 10%;
+}
+
+h1 {
+  color: gray;
+}
+
+a:link, a:visited{
+  color: #9f5f80;
+  text-decoration: none;
+}
+/*  another way to create border is border-style: none;
+                                    border-top-style: dotted; */
